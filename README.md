@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://github.com/brokiemag/Scamstroyer/blob/main/Githubico.jpeg?raw=true" width="930" height="300">
 </p>
@@ -46,6 +45,3 @@ Reverse Connect the ANYDESK and install the program to targets computer and add 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## License
-[BROKIEMAG (SOHAN)](https://brokiemag.me)
