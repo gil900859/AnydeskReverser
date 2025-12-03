@@ -10,7 +10,7 @@
 
 # Scamstroyer
 
-Scamstroyer is a python based application that lets you run or control the target user computer without them knowing.
+AnyDeskReverser is a python based application that lets you run or control the target user computer without them knowing.
 
 ## Installation
 
