@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/aurthor-Sohan%2FBrokiemag-yellow">
 </p>
 
-# Scamstroyer
+# AnyDeskReverser
 
 AnyDeskReverser is a python based application that lets you run or control the target user computer without them knowing.
 
